@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <script src="javascript.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="styles.css">
+    <title>Photobomb</title>
+</head>
+<body>
+    <article>
+        <section>
+            <h1><a href="fotoalbum.html">
+                    <img id="logo" src="imgs/photobomb.png" alt="Logo PhotoBomb"></a></h1>
+            <div class="backSettings">
+                <div class="row">
+                    <div class="column">
+                        <img src="imgs/Hammond.png" id="myImg1" alt="zmensenina1" onclick="openModal(1);currentSlide(0)" class="hover-shadow">
+                    </div>
+                    <div class="column">
+                        <img src="imgs/Kempe.png" id="myImg2"  alt="zmensenina2" onclick="openModal(2);currentSlide(1)" class="hover-shadow">
+                    </div>
+                    <div class="column">
+                        <img src="imgs/Nemeth.png" id="myImg3"  alt="zmensenina3" onclick="openModal(3);currentSlide(2)" class="hover-shadow">
+                    </div>
+                    <div class="column">
+                        <img src="imgs/mcleod.JPG" id="myImg4"  alt="zmensenina4" onclick="openModal(4);currentSlide(3)" class="hover-shadow">
+                    </div>
+                </div>
+
+                <!-- The Modal/Lightbox -->
+                <div id="myModal" class="modal">
+                    <span class="close cursor" onclick="closeModal()">&times;</span>
+                    <div class="modal-content">
+
+                        <div id="img01" class="mySlides">
+                            <div class="numbertext">1 / 4</div>
+                            <img class="modalImg" src="imgs/lafreniere.png">
+                        </div>
+
+                        <div id="img02" class="mySlides">
+                            <div class="numbertext">2 / 4</div>
+                            <img class="modalImg" src="imgs/image.jpg">
+                        </div>
+
+                        <div id="img03" class="mySlides">
+                            <div class="numbertext">3 / 4</div>
+                            <img class="modalImg" src="imgs/pi.jpg">
+                        </div>
+
+                        <div id="img04" class="mySlides">
+                            <div class="numbertext">4 / 4</div>
+                            <img class="modalImg" src="imgs/laskycas.jpg">
+                        </div>
+
+                        <!-- Caption text -->
+                        <div class="caption-container">
+                            <p id="caption"></p>
+                        </div>
+
+                        <div>
+                            <!-- Next/previous controls -->
+                            <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+                            <a class="next" onclick="plusSlides(1)">&#10095;</a>
+                            <a class="slideshowPlay" onclick="play()">&#9658;</a>
+                            <a class="slideshowStop" onclick="stop()">&#9613;&#9613;</a>
+                        </div>
+
+                        <!-- Thumbnail image controls -->
+                        <div class="column">
+                            <img class="demo" src="imgs/lafreniere.png" onclick="currentSlide(0)" alt="Nature">
+                        </div>
+
+                        <div class="column">
+                            <img class="demo" src="imgs/image.jpg" onclick="currentSlide(1)" alt="Snow">
+                        </div>
+
+                        <div class="column">
+                            <img class="demo" src="imgs/pi.jpg" onclick="currentSlide(2)" alt="Mountains">
+                        </div>
+                        <div class="column">
+                            <img class="demo" src="imgs/laskycas.jpg" onclick="currentSlide(3)" alt="Lights">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <footer class="footer">
+            <p>
+                Publikované dòa <time datetime="2018-10-15 19:15">15. Október</time>.
+                &copy; Anton Blašèák 2018
+            </p>
+        </footer>
+    </article>
+</body>
+</html>
