@@ -1,0 +1,41 @@
+Shadow Fiend 9:0
+Magnus 5:0
+Storm Spirit 5:0
+Viper 2:0
+Morphling 3:0
+Luna 3:0
+Razor 2:0
+Elder Titan 7:3
+Vengeful Spirit 3:1
+Medusa 5:2
+Phantom Assassin 1:0
+Templar Assasin 2:2
+Faceless Void 2:0
+Lone Druid 2:0
+Lifestealer 2:0
+Alchemist 1:1
+Clockwerk 1:0
+Queen of Pain 2:0
+Bane 1:0
+Venomancer 1:0
+Ember Spirit 1:0
+Lich 1:0
+Gyrocopter 1:0
+Necrophos 1:0
+Terrorblade 1:0
+Juggernaut 1:0
+Skywrath Mage 1:0
+Visage 1:0
+Spectre 1:0
+Clinkz 1:0
+Winter Wyvern 1:0
+Ancient Apparition 3:0
+Pudge 1:0
+Oracle 1:0
+Pugna 1:0
+Zeus 1:0
+Ursa 1:0
+Outworld Devourer 1:1
+Timbersaw 0:1
+Weaver 0:1
+Lina 0:1
