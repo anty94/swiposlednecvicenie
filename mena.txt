@@ -1,0 +1,373 @@
+Ronnie Shaw		The Castle
+Mike Shaw		The Castle
+Mary Anne Shaw		The Castle
+Oliver Shaw		The Castle
+Joe MacDonald		The Castle
+Jane MacDonald		The Castle
+Tina Fey		The Castle
+David Fey		The Castle
+Eric Wedgewood		The Castle
+Amy Wedgewood		The Castle
+Pedro Rodriguez		The Castle
+Rita Rodriguez		The Castle
+Gemma Arterton		The Castle
+Roy Parker		The Castle
+Elizabeth Parker	The Castle
+Scott Wilson		The Castle
+Summer Wilson		The Castle
+Keith Richards		The Castle
+Tonya Richards		The Castle
+Bob Cannavale		The Castle
+Lucy Cannavale		The Castle
+Brett Ratner		The Castle
+Emilia Ratner		The Castle
+Travis Zajac		The Castle
+Laetitia Zajac		The Castle
+Darryl Sydor		The Castle
+Melania Sydor		The Castle
+****************************************
+Cedric Dupois		Egret Tours Marina
+Agathe Dupois		Egret Tours Marina
+****************************************
+Dolores Watson		Greygarden
+Charlie Watson		Greygarden
+Marianne Walker		Greygarden
+Jonathan Walker		Greygarden
+Louise Evans		Greygarden
+Willie Evans		Greygarden
+Helen Brown		Greygarden
+Connor Brown		Greygarden
+Zoe McDuffy		Greygarden
+John McDuffy		Greygarden
+Ashley Young		Greygarden
+Jermaine Young		Greygarden
+Maureen	Kane		Greygarden
+Rodney Kane		Greygarden
+Angela Stewart		Greygarden
+Chris Stewart		Greygarden
+Julia Marner		Greygarden
+Samuel Marner		Greygarden
+Meghan Smith		Greygarden
+Winston Smith		Greygarden
+Jenny MacKenzie		Greygarden
+Curtis MacKenzie	Greygarden
+****************************************
+Myrna Jenkins		Boston Airport
+Mark Graham		Boston Airport
+****************************************
+Larry Hickett		Spectacle Island
+Barbra Hickett		Spectacle Island
+Steve Hickett		Spectacle Island
+Natalie Hickett		Spectacle Island	
+Benny Hickett		Spectacle Island
+Geena Hickett		Spectacle Island
+Solomon Freeman		Spectacle Island
+Tessa Freeman		Spectacle Island
+Max Lynskey		Spectacle Island
+Kelly Lynskey		Spectacle Island
+Shane Connelly		Spectacle Island
+Lisa Connelly		Spectacle Island
+Boone Spencer		Spectacle Island
+Lydia Spencer		Spectacle Island
+Edward Thompson		Spectacle Island	
+Amber Thompson		Spectacle Island
+Terry Macroni		Spectacle Island
+Stefania Macroni	Spectacle Island
+Bruce Gallagher		Spectacle Island
+Martha Gallagher	Spectacle Island
+****************************************
+Rebecca Carter		Home Plate
+Mason Carter		Home Plate
+Selma Campbell		Home Plate
+Gregory Campbell	Home Plate
+Sophie Theroux		Home Plate
+Justin Theroux		Home Plate
+Mathilde Braun		Home Plate
+Matthew Braun		Home Plate
+Daisy Manderly		Home Plate
+Jacob Manderly		Home Plate
+****************************************
+Ben Morowitz		Covenant
+Jess Morowitz		Covenant
+Wes Johnson		Covenant
+Amy Johnson		Covenant
+Judy Greer		Covenant
+Shelby Greer		Covenant
+Cameron Russo		Covenant
+Geraldine Russo		Covenant
+James Elwood		Covenant
+Lindsay Elwood		Covenant
+Cooper Marody		Covenant
+****************************************
+Stacy Griffith		Jamaica Plain
+George Griffith		Jamaica Plain
+Vanessa Callahan	Jamaica Plain
+Mitch Callahan		Jamaica Plain
+Shelly Williams		Jamaica Plain
+Doug Williams		Jamaica Plain
+Nathan Perry		Jamaica Plain
+Christina Perry		Jamaica Plain
+Mia Merryweather	Jamaica Plain
+Bo Merryweather		Jamaica Plain
+Linda Stephenson	Jamaica Plain
+Garry Stephenson	Jamaica Plain
+Charlotte Moore		Jamaica Plain
+Dominic Moore		Jamaica Plain
+****************************************
+Heather Lewis		County Crossing
+Richard Lewis		County Crossing
+Debbie Harding		County Crossing
+Joshua Harding		County Crossing
+Paula Henderson		County Crossing
+Eddie Henderson		County Crossing
+Rebecca Thomas		County Crossing
+Derrick Thomas		County Crossing
+Rachel Cohen		County Crossing
+Leonard Cohen		County Crossing
+Michelle King		County Crossing
+Raymond King		County Crossing
+Serena Coleman		County Crossing
+Wesley Coleman		County Crossing
+Abigail Moore		County Crossing
+Patrick Moore		County Crossing
+Emma Ferguson		County Crossing
+Derek Ferguson		County Crossing
+Wade Kowalski		County Crossing
+Helen Kowalski		County Crossing
+Brooke Anderson		County Crossing
+Vince Anderson		County Crossing
+****************************************
+Anthony Mayhew		Coastal Cottage
+Deborah Mayhew		Coastal Cottage	
+Isaac Prescott		Coastal Cottage
+Judith Prescott		Coastal Cottage
+Carlos Estevez		Coastal Cottage
+Ramona Estevez		Coastal Cottage
+Casey Brassard		Coastal Cottage
+Penny Brassard		Coastal Cottage
+****************************************
+Stephanie Nash
+Gregory Nash
+Benjamin Leigh
+Margaret Leigh
+Floyd Simmonds
+Laila Simmonds
+Brooklyn Decker		
+
+Whitney
+Jessica
+Sarah
+Eve
+Grace 
+Hope
+Rosa
+Susan 
+Francesca
+Sierra
+Lilly
+Esther
+Ruth
+Betty 
+Chloe
+Harriett
+Clara
+Lindsay
+Margot
+Ellie
+Alice
+Lea
+Anna
+
+Blake 
+Jimmy 
+Glenn
+Colby
+Casey
+Antonio 
+Jeremy
+Evander 
+Maurice
+Wayne
+Dean
+Garry
+Tom
+Lawrence 
+Slater
+Julio 
+Alfonso
+Paul 
+Adam
+Alex
+Gabriel
+Floyd
+Drew
+Ross
+Josh
+Dean 
+Tony
+James
+	Diaz
+	Jennings
+	Morgan
+	Simpson
+	Roberts
+	James
+	Green
+	Cooper
+	Callahan
+	Alonso
+	Warner
+	Barkley
+	Weber
+	Murray
+	Howard
+	Becker
+	Muller
+	Andrews
+	Hammond
+	Schneider
+	Redford
+	Ramires
+	Fischer
+	Savage
+	Silva
+	Royce
+	Phillips
+	Gibson
+	Bowers
+	Savard
+	Powell
+	Martindale
+	Cole
+	Gordon
+	Booth
+	Russell
+	Quinn
+Allen	York
+Clemence
+Drake	
+Duncan
+Oscar
+Marcus
+Tobias
+Quinn
+Jamal
+Michael
+Conrad
+Oliver
+Raul
+Pablo
+Joseph
+Dan
+Daniel
+David
+Dylan
+Ralph 
+Raphael
+Peyton
+Phillip
+Douglas
+Nicolas Barclay
+Nick
+Ryan
+Fernando Garcia
+	Hughes
+	Rush
+	Stanton
+	Russo
+	Boyd
+	Elwood
+	Baker
+	Wyatt
+	Rourke
+	Fischer
+	Boyton
+	Sullivan
+	Harper
+	Owens
+	Quinn
+	Michaels
+	Irvine/Irving
+	Kasdan
+	Fox
+	MacTavish
+	Harris
+	Hutchison
+	Thompson
+	Wright
+	Crawford
+	Talbot
+	Hayes
+	Vaughn
+	Curry
+	Dreyfuss
+	Scott
+	Sellers
+	Murphy
+	Hawkins
+	Morrow	
+	Hathaway
+	Carpenter
+	Garrison
+	Harris
+	McBain
+	Hewitt
+	Archibald
+	Hamilton
+	Delaney
+	Bowman
+	Reinhart
+	Sanchez
+	Martinez
+	Bell
+	Boucher
+	Butcher
+	Castillo
+
+player.equipitem 00021b3b	//equip pipboy
+setav 129157 100		//nastav stastie
+player.placeatme 20593 1	//spawn settler
+fov 90 90		//90 stupnovy uhol pohladu?
+prid 0001d162
+moveto player		//summon Dogmeat
+player.additem		//+basicID pridava veci
+0007c70c		//Wedding ring
+001c4be8		//Eyeglasses
+001738aa		//Patrolman glasses
+000e628a		//Sunglasses
+00125891		//Black-rim glasses
+000787da		//Surgical Mask
+001bbcb9		//Railroad armor
+0001f92f		//Battered clipboard
+00059b1e		//Turpentine
+001c2214		//Generals uniform
+001f599a		//Lietanauts hat
+001921d6		//Corset
+0014bf53		//Atom Cats Jacket
+
+na ceste
+	Home Plate - Flannel(docasne), Army
+	Slog - CHeckered
+	Bunker Hill - blue fatigues?
+potrebuje
+	Murkwater - blueMinute, Longshoreman,
+			painter
+	The Slog - farm?, blueF??
+
+10 filmov na ktore nepojdem:
+Favoritka
+Ako si vycvicit draka 3
+Roma
+Green Book
+Hirosima, moje laska
+Diktator
+John Wick 3 Parabellum
+Persona
+Big Lebowski
+Moderna doba
+Toy Story 4
+
+udrzba zazemia
+352 602 -2,5%
+udrzba stadionu
+310 279 -3,5%

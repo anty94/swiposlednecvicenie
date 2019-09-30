@@ -1,0 +1,18 @@
+leto 2018	0,6
+******************************************
+Calgary Flames
+Tampa Bay Lightning
+St. Louis Blues
+Winnipeg Jets
+Detroit Red Wings
+
+jar 2019	0,6
+******************************************
+Dallas Stars
+Nashville Predators
+St. Louis Blues
+
+
+leto 2019	0,5
+******************************************
+New York Islanders

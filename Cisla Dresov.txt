@@ -1,21 +1,22 @@
-Obrany
+		Obrany
 
 Buffalo Sabres
 Toronto Maple Leafss
-Tampa Bay Ligtning
-Detroit Red Wings
 Colorado Avalanche
-Calgary Flames
 Boston Bruins
-Carolina Hurricanes
 Ottawa Senators
 Philadelphia Flyers
 New Yor Islanders
 Las Vegas Golden Knights
 San Jose Sharks
+Tampa Bay Ligtning
+Detroit Red Wings
+Carolina Hurricanes
+Calgary Flames
+Washington Capitals
 
 
-Cisla Dresov
+		Cisla Dresov
 
 Toronto Maple Leafs
 Calgary Flames
@@ -25,9 +26,9 @@ New York Islanders
 Minnesota Wild
 
 
-Contracts
-
-Calgary Flames
+		Contracts
+		leto 2019
+/*	Calgary Flames
 Philadelphia Flyers
 Montreal Canadiens
 Edmonton Oilers
@@ -35,22 +36,14 @@ St. Louis Blues
 Tampa Bay Lightning
 Columbus Blue Jackets
 San Jose Sharks
-Dallas Stars
+Dallas Stars	*/
+
+0,5
 Detroit Red Wings
+Buffalo Sabres
+New York Rangers
+Tampa Bay Lightning
 
-FO4 mods
-https://www.nexusmods.com/fallout4/mods/14627/?
-https://www.nexusmods.com/fallout4/mods/10111/?
-https://www.nexusmods.com/fallout4/mods/22431/?
-https://www.nexusmods.com/fallout4/mods/22536/?
-https://www.nexusmods.com/fallout4/mods/22351/?
-https://www.nexusmods.com/fallout4/mods/25852/?
-https://www.nexusmods.com/fallout4/mods/15962/?
-https://www.nexusmods.com/fallout4/mods/18331/?tab=files
-https://www.nexusmods.com/fallout4/mods/28443
-https://www.nexusmods.com/fallout4/mods/4270/
-
-!
-https://www.nexusmods.com/fallout4/mods/9710?tab=description
-Skyrim mods
-https://www.nexusmods.com/skyrim/mods/81036/
+		VSETKO	leto 2019
+Detroit Red Wings
+New York Islanders
